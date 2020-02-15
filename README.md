@@ -1,5 +1,4 @@
-# Cómputo Móvil
-## Semestre 2020-2
+# Diplomado de Desarrollo de Aplicaciones Móviles **5ta Generación**
 
 ### Lecture Log
 
@@ -15,7 +14,7 @@
    5. [Design Patterns](resources/guides/6848282-rc0008-designpatterns-online.pdf)
    6. [Swift cheatsheet](resources/guides/RW-Swift-Cheatsheet-0_8.pdf)
    7. [Hábitos de los usuarios de internet en México](resources/guides/15+Estudio+sobre+los+Ha_bitos+de+los+Usuarios+de+Internet+en+Me_xico+2019+versio_n+pu_blica.pdf)
-   8. 
+   
 ### References
 1.- Model View Controller Pattern
 
