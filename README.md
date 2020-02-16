@@ -21,5 +21,10 @@
 
 ![MVC Image](resources/images/mvc.png)
 
+2.- Model View ViewModel
+
+![MVVM Image](resources/images/MVVM.jpg)
+
+
 ### Telegram group
 - https://t.me/joinchat/G9xsYBYFlbn0UB1tF2uWlw
