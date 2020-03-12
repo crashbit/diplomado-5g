@@ -10,6 +10,8 @@
 - Session 6 (29/02/2020)
 - [Session 7 (06/03/2020)](sessions/session_7/README.md)
 - [Session 8 (07/03/2020)](sessions/session_8/README.md)
+- [Session 9 (13/03/2020)](sessions/session_9/README.md)
+- [Session 10 (14/03/2020)](sessions/session_10/README.md)
 
 ### Resources
 
