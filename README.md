@@ -4,8 +4,12 @@
 
 - [Session 1 (14/02/2020)](sessions/session_1/README.md)
 - Session 2 (15/02/2020)
-- Session 3 (21/02/2020)
-- Session 4 (22/02/2020)
+- [Session 3 (21/02/2020)](sessions/session_3/README.md)
+- [Session 4 (22/02/2020)](sessions/session_4/README.md)
+- Session 5 (28/02/2020)
+- Session 6 (29/02/2020)
+- [Session 7 (06/03/2020)](sessions/session_7/README.md)
+- [Session 8 (07/03/2020)](sessions/session_8/README.md)
 
 ### Resources
 
